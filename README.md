@@ -12,3 +12,4 @@
 
 3) http://localhost:3000/api/single-tumor/:case_id => Put the case_id value in place of :case_id , it retrieves the specific tumor data matching with its case_id from the database.
 
+.env has the mongodb url
